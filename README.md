@@ -118,6 +118,15 @@ Segment customers using clustering techniques to:
 
 ---
 
+## 📬 Contact
+
+📧 **Suraj Parida** — *surajparida9191@gmail.com*  
+🔗 LinkedIn: *https://www.linkedin.com/in/surajparida19/*  
+
+---
+
+⭐ *If you found this project valuable, consider giving it a star on GitHub!*
+
 ## 👤 Author
 **Suraj Parida**  
-Email: surajparida9191@gmail.com
+
