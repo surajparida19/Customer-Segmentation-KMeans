@@ -118,6 +118,8 @@ Segment customers using clustering techniques to:
 
 ---
 
+## 📜 License This project is licensed under the [MIT License](LICENSE).
+
 ## 📬 Contact
 
 📧 **Suraj Parida** — *surajparida9191@gmail.com*  
@@ -126,7 +128,4 @@ Segment customers using clustering techniques to:
 ---
 
 ⭐ *If you found this project valuable, consider giving it a star on GitHub!*
-
-## 👤 Author
-**Suraj Parida**  
 
