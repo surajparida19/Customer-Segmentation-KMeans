@@ -8,7 +8,7 @@
 
 ---
 
-**Task-3 | Data Analysis & Data Science using Python**
+**Data Analysis & Data Science using Python**
 
 This project performs **customer segmentation** using **K-Means clustering**. The aim is to group customers based on purchasing behavior (Age, Annual Income, Spending Score) so businesses can implement targeted marketing strategies and resource allocation.
 
